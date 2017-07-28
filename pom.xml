@@ -14,6 +14,7 @@
 		<module>ejbtest-ejb</module>
 		<module>ejbtest-app</module>
 		<module>ejbtest-ejbclient</module>
+		<module>ejbtest-cli</module>
 	</modules>
 
 </project>
